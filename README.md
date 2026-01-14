@@ -5,7 +5,7 @@
 A campaign for [Battle for Wesnoth](https://www.wesnoth.org/).  This
 campaign is not set in Wesnoth.
 
-It is a work in progress.  The first three scenarios are currently
+It is a work in progress.  The first four scenarios are currently
 available.
 
 ## Authors ##
